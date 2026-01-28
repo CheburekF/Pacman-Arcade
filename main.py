@@ -134,7 +134,7 @@ class GameView(arcade.Window):
         y = 620
         self.inst = [
             self._text(
-                "Инструкции",
+                "Инструкция",
                 0,
                 y,
                 YELLOW,
